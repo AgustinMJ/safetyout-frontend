@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "720638991961",
+    "project_id": "safetyout",
+    "storage_bucket": "safetyout.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:720638991961:android:958af6fdece6fe5acf5b48",
+        "android_client_info": {
+          "package_name": "com.safety.out"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "720638991961-k7u05slffj2jor31u3mut0fdepgudfj3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.safety.out",
+            "certificate_hash": "46effc3df6828e3d039927fc50433788a1d2b494"
+          }
+        },
+        {
+          "client_id": "720638991961-5cuhq3m1su5k3em269h7u2lkj75jp74f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCY3riR9OaB7MF-Px_RPaoEyVqaHhm_3Pw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "720638991961-5cuhq3m1su5k3em269h7u2lkj75jp74f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "720638991961-b5b7dui4qa9sh7fdbr89khmiqep96seo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.safety.out"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
